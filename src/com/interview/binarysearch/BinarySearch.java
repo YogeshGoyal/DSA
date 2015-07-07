@@ -2,6 +2,7 @@ package com.interview.binarysearch;
 
 /**
  * Regular binary search
+ *author yogesh
  */
 public class BinarySearch {
 
